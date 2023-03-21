@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.image{
+	height:1000px;
+	width:800px;
+	position:relative;
+}
+.list{
+	width:400px;
+	height:1000px;
+	position:absolute;
+	top:8px;
+	background-color:white;
+	left:200px;
+	border-color:grey;
+	border-left:20px solid gray;
+	border-right:20px solid gray;
+	border-opacity:0.1;
+}
+.list1{
+	border-top:1px solid gray;
+	background-color:white;
+	font-size:30px;
+	list-style: square;
+}
